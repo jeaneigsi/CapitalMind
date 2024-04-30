@@ -19,6 +19,7 @@ widget_finance="""
   "calendar": false,
   "support_host": "https://www.tradingview.com"
 }
+
   </script>
 </div>
 <style>
@@ -28,7 +29,6 @@ widget_finance="""
     padding: 6rem 1rem 10rem;
     max-width: 67rem !important;
 }
-
 
 </style>
 <!-- TradingView Widget END -->
